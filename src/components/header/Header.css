@@ -1,0 +1,22 @@
+
+.header{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    background-color: #fff;
+    color: #1c8adb;
+    font-family: monospace;
+    font-size: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 50px;
+
+}
+.link{
+    text-decoration: none;
+    color:#1c8adb;
+    cursor: pointer;
+}
+.header img{
+    height:50px;
+    width:50px;
+}
